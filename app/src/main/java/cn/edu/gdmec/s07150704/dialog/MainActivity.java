@@ -12,7 +12,7 @@ package cn.edu.gdmec.s07150704.dialog;
         import android.widget.TextView;
         import android.widget.TimePicker;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends  AppCompatActivity {
     private TextView tv1,tv2,tv3;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
